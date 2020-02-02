@@ -10,9 +10,9 @@ index_page_size = 10
 archives_page_size = 20
 enable_jsdelivr = {
 
-    "enabled": Falase,
+    "enabled": True,
 
-    "repo": "XueRunze324/Blog@master"
+    "repo": "XueRunze324/XueRunze324.github.io@master"
 
 }
 
