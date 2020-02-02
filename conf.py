@@ -12,7 +12,7 @@ enable_jsdelivr = {
 
     "enabled": Falase,
 
-    "repo": "XueRunze324/XueRunze324.github.io@master"
+    "repo": "XueRunze324/Blog@master"
 
 }
 
