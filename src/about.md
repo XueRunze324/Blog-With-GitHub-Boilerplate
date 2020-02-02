@@ -17,6 +17,6 @@ tags:
 
 ## Contact
 
-Email(Major): x3240073549@gmail.com
-Email(Spare): 3240073549@qq.com
+Email(Major):x3240073549@gmail.com
+Email(Spare):3240073549@qq.com
 Telegram:[迎风沐雨](https://t.me/X32400)
