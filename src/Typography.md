@@ -37,9 +37,9 @@ We are creating a world where anyone, anywhere may express his or her beliefs, n
 
 ## Blockquote and nested blockquote
 
-> 安得广厦千万间，大庇天下寒士俱欢颜！风雨不动安如山。
+> 我们所爱之物，昭示着我们究竟是谁
 >
-> > 呜呼！何时眼前突兀见此屋，吾庐独破受冻死亦足！
+> > 别用别人的故事，决定自己的人生
 
 ## Code
 
@@ -55,11 +55,12 @@ int main(int argc , char** argv){
 
 ### Unordered List
 
-* iPhone
-    * iPhone X
-    * iPhone 11
-* iPad
-* MacBook
+* Samsung
+    * IBM
+    * Microsoft
+* Google
+* Apple
+* AIML
 
 ### Ordered List
 
