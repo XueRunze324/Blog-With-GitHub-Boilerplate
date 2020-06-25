@@ -19,7 +19,7 @@ enable_jsdelivr = {
 # 站点设置
 site_name = "迎风沐雨"
 site_logo = "${static_prefix}logo.png"
-site_build_date = "2020-01-01T00:00+08:00"
+site_build_date = "2017-08-01T00:00+08:00"
 author = "XueRunze"
 email = "x3240073549@gmail.com"
 author_homepage = "https://www.imalan.cn"
