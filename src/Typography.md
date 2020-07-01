@@ -46,7 +46,8 @@ We are creating a world where anyone, anywhere may express his or her beliefs, n
 Inline code: `int a=1;`. Code block:
 
 ```cpp
-int main(int argc , char** argv){
+int main(int argc , char** argv)
+{
     std::cout << "Hello World!\n";
     return 0;
 }
@@ -85,7 +86,7 @@ $$C_{m\times k}=A_{m\times n}\cdot B_{n\times k}$$
 
 ### Single figure
 
-![Princess Mononoke](./images/Mononoke_Hime.jpg)
+![View](./images/Mononoke_Hime.jpg)
 
 ### Photoset
 
